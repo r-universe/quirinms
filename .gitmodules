@@ -5,6 +5,3 @@
 [submodule "BIDistances"]
 	path = BIDistances
 	url = https://github.com/cran/BIDistances
-[submodule "mrf"]
-	path = mrf
-	url = https://github.com/quirinms/mrfr
