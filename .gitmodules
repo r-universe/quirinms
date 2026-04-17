@@ -8,3 +8,6 @@
 [submodule "GeneralizedUmatrixGPU"]
 	path = GeneralizedUmatrixGPU
 	url = https://github.com/quirinms/generalizedumatrixgpu
+[submodule "mrf"]
+	path = mrf
+	url = https://github.com/quirinms/mrfr
