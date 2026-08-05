@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BIDistances"]
-	path = BIDistances
-	url = https://github.com/cran/BIDistances
 [submodule "GeneralizedUmatrixGPU"]
 	path = GeneralizedUmatrixGPU
 	url = https://github.com/quirinms/generalizedumatrixgpu
